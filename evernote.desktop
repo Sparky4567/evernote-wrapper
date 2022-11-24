@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Categories=Application
+Terminal=false
+Exec=/usr/bin/evernote
+Name=Evernote
+Comment=Evernote
+Icon=/home/cyberpunk/Pictures/notes.png
